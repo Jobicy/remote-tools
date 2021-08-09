@@ -78,32 +78,6 @@ Notes:
 * Globally-competitive compensation means that the company doesn't use remote workers as a source of cheap labour. For compensation to be globally competitive, the company should offer packages that are comparable to market rates in major tech hubs.
 * **[✉️ You can subscribe to job alerts by companies from this list on Job Dispatch](https://www.jobdispatch.co/job-collections/remote-first)**.
 
-## Other dynamic lists
+## Remote job search 
 
-* [Awesome Remote Job (markdown file of remote working resources)](https://github.com/lukasz-madon/awesome-remote-job)
-* [List of Startups with distributed teams, remote staff & multiple offices (Google Sheet)](https://docs.google.com/spreadsheets/d/1uDdDyheNY_-Z3MtuNoFdBYBooBnUTmlYCOZ3VhcN9Sw/edit)
-* [Work Remote Company List (less detailed Google Sheet)](https://docs.google.com/spreadsheets/d/1tETz3dWHkbzbXAMZ9XXdR0VKhhite-i_ON_Ei3TjFSc/edit)
-
-## Static lists and articles
-
-* FlexJobs posts: [26 Virtual Companies That Thrive on Remote Work (2014)](https://www.flexjobs.com/blog/post/25-virtual-companies-that-thrive-on-remote-work/) | [76 Virtual Companies and Distributed Teams (2015)](https://www.flexjobs.com/blog/post/76-virtual-companies-and-distributed-teams/) | [125 Virtual Companies That Embrace Remote Working (2016)](https://www.flexjobs.com/blog/post/virtual-companies-that-embrace-remote-working/)
-* [5 Successful Examples of "Distributed Workforce" Companies (staff.com blog)](https://staff.com/blog/5-successful-examples-of-distributed-workforce-companies/)
-* [Virtual Companies: How and Why to Invest in Remote Teams (8 companies; Hubstaff blog)](http://blog.hubstaff.com/successful-virtual-companies-around-the-world/)
-* [Remote Only](https://www.remoteonly.org/): Manifesto, tips, company list, and more
-
-## Remote job search websites
-
-* [AngelList remote job collection](https://angel.co/job-collections/remote)
-* [Authentic Jobs](https://authenticjobs.com/#onlyremote=1)
-* [FlexJobs](https://www.flexjobs.com/)
-* [NODESK](https://nodesk.co/remote-jobs/)
-* [Remote4me](https://remote4me.com/)
-* [RemoteBase](https://remotebase.com/)
-* [Remote.co](https://remote.co/remote-jobs/)
-* [Remote | OK](https://remoteok.io/)
-* [Remotive](http://jobs.remotive.io/)
-* [Stack Overflow remote job listings](https://stackoverflow.com/jobs?allowsremote=true)
-* [WeWorkRemotely](https://weworkremotely.com/)
-* [Working Nomads](http://www.workingnomads.co/jobs)
-
-*Note:* There seem to be hundreds of remote job aggregators, and new ones keep emerging. This is just a sample. If you want to add an aggregator, it should have more traffic than most of the above sites.
+* [Jobicy.com](https://jobicy.com/jobs)
